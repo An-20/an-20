@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello!
+I am An-20 (he/him, no real names here), a student in secondary school in the UK. If you are reading this, you have somehow stumbled across my profile. Thanks for taking a look!
+
+- ✏ I’m currently working on various projects, some public and some private. These include Discord bots, some smart contract experimentation, and a closed-source Python algotrading bot.
+- 📚 I'm currently learning Solidity and SQL
+- 🎨 I have experience in Python, some experience in Solidity and am somewhat familiar with TensorFlow.
+- ⚡ Fun fact: I hate avocados. Something more coding related? I once tried to make a mod for KSP. I failed.
 
 <!--
 **An-20/an-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
