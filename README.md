@@ -6,6 +6,8 @@ I am An-20 (he/him, no real names here), a student in secondary school in the UK
 - 🎨 I have experience in Python, some experience in Solidity and am somewhat familiar with TensorFlow.
 - ⚡ Fun fact: I hate avocados. Something more coding related? I once tried to make a mod for KSP. I failed.
 
+And yes, I did go through the effort of making my profile picture dark-mode friendly.
+
 <!--
 **An-20/an-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
