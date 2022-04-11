@@ -1,5 +1,5 @@
 ## Hello!
-I am An-20 (he/him, no real names here), a student in secondary school in the UK. If you are reading this, you have somehow stumbled across my profile. Thanks for taking a look!
+I am An-20, a student in secondary school in the UK. If you are reading this, you have somehow stumbled across my profile. Thanks for taking a look!
 
 - ✏ I’m currently working on various projects, some public and some private. These include Discord bots, some smart contract experimentation, and a closed-source Python algotrading bot.
 - 📚 I'm currently learning Solidity and SQL
