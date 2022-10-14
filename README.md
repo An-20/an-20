@@ -2,7 +2,7 @@
 I am An-20, a student in secondary school in the UK. If you are reading this, you have somehow stumbled across my profile. Thanks for taking a look!
 
 - ✏ I’m currently working on various projects, some public and some private. These include Discord bots, some smart contract experimentation, and a closed-source Python algotrading bot (which has been eating up my time for the last two years).
-- 📚 I'm currently learning SQL and C++, along with some intermittent bursts where I manically try to learn Rust. 
+- 📚 I'm currently learning C for CUDA, along with some intermittent bursts where I manically try to learn Rust. 
 - 🎨 I have experience in Python, some C++ experience and am somewhat familiar with TensorFlow.
 - 🌱 My favourite Python packages include Numba, Bottleneck, discord.py and Flask.
 - ⚡ Fun fact: I hate avocados. Something more coding related? I once tried to make a mod for KSP (my favourite game). I failed.
