@@ -8,6 +8,8 @@ I am An-20, a student in secondary school in the UK. If you are reading this, yo
 - 🌱 My favourite Python packages include Numba, Pandas, discord.py and Flask.
 - ⚡ Fun fact: I hate avocados. Something more coding related? I once tried to make a mod for KSP (my favourite game). I failed.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=An-20&theme=rising-sun&date_format=M%20j%5B%2C%20Y%5D&background=22272E)](https://git.io/streak-stats)
+
 <!--
 **An-20/an-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
