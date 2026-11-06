@@ -1,7 +1,7 @@
 ## Hello!
-I am An-20, a student in secondary school in the UK. If you are reading this, you have somehow come across my profile. Thanks for taking a look!
+I am An-20, a university student in the UK. If you are reading this, you have somehow come across my profile. Thanks for taking a look!
 
-- ✏ I’m currently working on various projects, some public and some private. These include Discord bots, [a programming language](https://lab.vksl.uk), and a closed-source algotrading bot built with Python, Rust and CUDA (which has been eating up my time for the last four years).
+- ✏ I’m currently working on various projects, some public and some private. These include [a computer algebra system](https://github.com/An-20/nea), [a programming language](https://lab.vksl.uk), and a closed-source algotrading bot built with Python, Rust and CUDA (which has been eating up my time for the last four years).
 - 💬 Currently building things at [VKSL STUDIOS](https://vksl.uk)!
 - 📚 I'm learning C++ for CUDA, along with some intermittent bursts where I manically try to learn Rust. 
 - 🎨 I have experience in Python, some C++ experience and am somewhat familiar with TensorFlow.
